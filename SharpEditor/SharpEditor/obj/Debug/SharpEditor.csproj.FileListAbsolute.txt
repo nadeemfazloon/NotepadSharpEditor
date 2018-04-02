@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2015\Projects\SharpEditor\SharpEditor\bin\Debug\SharpEditor.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\SharpEditor\SharpEditor\bin\Debug\SharpEditor.exe
+c:\users\dell\documents\visual studio 2015\Projects\SharpEditor\SharpEditor\bin\Debug\SharpEditor.pdb
+c:\users\dell\documents\visual studio 2015\Projects\SharpEditor\SharpEditor\obj\Debug\SharpEditor.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\SharpEditor\SharpEditor\obj\Debug\SharpEditor.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\SharpEditor\SharpEditor\obj\Debug\SharpEditor.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\SharpEditor\SharpEditor\obj\Debug\SharpEditor.exe
+c:\users\dell\documents\visual studio 2015\Projects\SharpEditor\SharpEditor\obj\Debug\SharpEditor.pdb
+c:\users\dell\documents\visual studio 2015\Projects\SharpEditor\SharpEditor\obj\Debug\SharpEditor.frmSharpEditor.resources
+C:\Users\Nadeem.RAVEN\OneDrive\APIIT\2nd Year\Semester 3\Task Based Software Engineering\Final\CB006456_TBSE_Assignment\SharpEditor\SharpEditor\bin\Debug\SharpEditor.exe.config
+C:\Users\Nadeem.RAVEN\OneDrive\APIIT\2nd Year\Semester 3\Task Based Software Engineering\Final\CB006456_TBSE_Assignment\SharpEditor\SharpEditor\obj\Debug\SharpEditor.exe
+C:\Users\Nadeem.RAVEN\OneDrive\APIIT\2nd Year\Semester 3\Task Based Software Engineering\Final\CB006456_TBSE_Assignment\SharpEditor\SharpEditor\obj\Debug\SharpEditor.pdb
